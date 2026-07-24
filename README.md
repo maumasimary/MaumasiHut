@@ -74,7 +74,7 @@ and warm Polynesian hospitality.
 
 <p>📞 (801) 834-8735</p>
 
-<p>Email: your@email.com</p>
+<p>Email: maumasihut@gmail.com</p>
 
 </section>
 
