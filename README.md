@@ -2,7 +2,7 @@ maumasi-hut/
 │── index.html
 │── style.css
 │── script.js
-└── maumasihut.png  
+└── maumasihut.png
 <!DOCTYPE html>
 <html lang="en">
 <head>
