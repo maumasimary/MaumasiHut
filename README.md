@@ -3,6 +3,7 @@ maumasi-hut/
 │── style.css
 │── script.js
 └── maumasihut.png
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
